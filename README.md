@@ -15,7 +15,7 @@ Açılır Menü (Dropdown): Teknoloji, Sanat veya Sağlık alanlarından birini 
 Detaylı Rehber İste Butonu: Seçtiğiniz alanla ilgili online kurs ve proje tavsiyeleri verir.
 
 Danışmanla Görüş Butonu: Destek, istek ve şikayetlerinizi iletebileceğiniz e-posta adresini paylaşır.
-![Kariyer Görünümü]()
+![Kariyer Görünümü](https://github.com/Ygz312629/Mezuniyet-Python-Level-3/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-09-29%20194835.png?raw=true)
 
 ## 2. Yapay Zeka Danışmanı (!ai [sorunuz])
 
