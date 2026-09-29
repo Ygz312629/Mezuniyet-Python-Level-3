@@ -28,6 +28,7 @@ Kariyer dışındaki genel sohbet veya alakasız soruları otomatik olarak filtr
 !ara [alan_adı] : Doğrudan metin ile alan araması yapmanızı sağlar (Örn: !ara Teknoloji).
 
 !yardim : Tüm komutları ve özellikleri anlatan yardım rehberini kanala gönderir.
+![Kariyer Görünümü](https://github.com/Ygz312629/Mezuniyet-Python-Level-3/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-09-29%20201238.png?raw=true)
 
 # 🛠️ Kurulum ve Çalıştırma
 
